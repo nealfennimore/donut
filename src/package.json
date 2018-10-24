@@ -22,7 +22,7 @@
     "url": "https://harshjv.github.io"
   },
   "dependencies": {
-    "electron-settings": "^2.2.2",
+    "electron-settings": "^3.0.0",
     "menubar": "^5.1.0"
   }
 }
